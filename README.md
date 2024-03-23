@@ -9,6 +9,7 @@ This App will be release soon. with community edition.
 
 ![v14s6](https://github.com/icebreakero/rofandom/assets/143504409/8ba5cdac-61da-4af8-aee3-2598a041000c)
 
-Buy Me a Coffee you may get the VIP Account.
+Buy Me a Coffee to support my work and you may get the VIP Account.
 See you soon
 Any question you can contact me by email or in github
+Thanks again for your support. ^^ Happy coding
