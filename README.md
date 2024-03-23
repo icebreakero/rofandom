@@ -1,5 +1,5 @@
 # rofandom
-rofandom bookking app is for you to record a game item and expenses.
+rofandom is a bookking app is for you to record a game item and expenses.
 
 This App will be release soon. with community edition.
 
