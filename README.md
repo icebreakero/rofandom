@@ -6,7 +6,7 @@ Display resolution requirements (1080P or Upper)
 Discord URL: https://discord.gg/Ht5DtgSCsy
 ![qr-code-dicord](https://github.com/icebreakero/rofandom/assets/143504409/ab3c049c-e445-4324-87be-bb06e5a1911d)
 
-</h>You can create account here https://github.com/signup?source=login to contact me. </h>
+</h>Or You can create account here https://github.com/signup?source=login to contact me. </h>
 
 This App will be release soon. with community edition.
 ![18v03](https://github.com/icebreakero/rofandom/assets/143504409/f4dda970-c2db-4c2c-bad3-e8766d382b8c)
