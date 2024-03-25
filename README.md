@@ -17,5 +17,6 @@ Buy Me a Coffee to support my work and you may get the VIP Account.
 See you soon
 Any question you can contact me by email or in github
 Thanks again for your support. ^^ Happy coding
+![qr-code-dicord](https://github.com/icebreakero/rofandom/assets/143504409/54b37e01-fea8-40e1-b17b-cbe1ebcdcb00)
 
 ![bmc_qr2](https://github.com/icebreakero/rofandom/assets/143504409/f81a43ad-2647-4929-ae0d-3fa0d99492db)
