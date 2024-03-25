@@ -1,5 +1,8 @@
 # rofandom
 rofandom is a gamer booking app is for you to record a game item and expenses.
+You can create account here
+https://github.com/signup?source=login 
+to contact me. 
 
 This App will be release soon. with community edition.
 ![18v03](https://github.com/icebreakero/rofandom/assets/143504409/f4dda970-c2db-4c2c-bad3-e8766d382b8c)
