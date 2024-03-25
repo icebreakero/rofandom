@@ -9,6 +9,7 @@ This App will be release soon. with community edition.
 ![18v02](https://github.com/icebreakero/rofandom/assets/143504409/4823e777-861d-425e-b1e5-179ef7edaa68)
 ![18v04](https://github.com/icebreakero/rofandom/assets/143504409/ceb4f7ae-21aa-48a2-a441-6ddde1df555b)
 
+display resolution requirements (1080P or upper)
 
 Buy Me a Coffee to support my work and you may get the VIP Account.
 See you soon
