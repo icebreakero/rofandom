@@ -4,6 +4,7 @@ rofandom is a gamer booking app is for you to record a game item and expenses.
 Display resolution requirements (1080P or Upper)
 
 Discord URL: https://discord.gg/Ht5DtgSCsy
+![qr-code-dicord](https://github.com/icebreakero/rofandom/assets/143504409/ab3c049c-e445-4324-87be-bb06e5a1911d)
 
 </h>You can create account here https://github.com/signup?source=login to contact me. </h>
 
