@@ -14,6 +14,8 @@ This App will be release soon. with community edition.
 
 ![18v01](https://github.com/icebreakero/rofandom/assets/143504409/6d7f85ce-c50a-489d-85ef-0dc49f7e8c2d)
 ![19v01](https://github.com/icebreakero/rofandom/assets/143504409/3812054c-251f-470f-a4e3-ea2a2eea9994)
+![20v01](https://github.com/icebreakero/rofandom/assets/143504409/16026071-a463-4a0e-9212-2be075a47f73)
+
 ![18v04](https://github.com/icebreakero/rofandom/assets/143504409/ceb4f7ae-21aa-48a2-a441-6ddde1df555b)
 
 
