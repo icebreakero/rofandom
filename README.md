@@ -1,5 +1,5 @@
 # rofandom
-rofandom is a gamer booking app is for you to record a game item and expenses.
+The Rofandom app is a comprehensive bookkeeping tool designed for gamers to meticulously manage their online MMORPG items, expenses and game characters with detailed precision. 
 
 Display resolution requirements (1080P or Upper)
 
